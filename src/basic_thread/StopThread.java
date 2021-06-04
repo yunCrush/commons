@@ -3,7 +3,7 @@ package basic_thread;
 /**
  * Author: yunCrush
  * Date:2021/6/3 23:47
- * Description:
+ * Description: 停止線程的正確方式
  */
 public class StopThread implements Runnable {
     @Override
